@@ -1,0 +1,22 @@
+# Артефакты сборки
+build/
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Отладочный вывод и временные файлы
+out*.txt
+err*.txt
+test_*.png
+shot*.png
+crop*.png
+sprite_debug.png
+exe_icon.png
+manifest_dump.xml
+icon256.png
+
+# IDE
+.vs/
+.vscode/
+*.user

@@ -1,0 +1,9 @@
+// Ресурсы приложения Sam Altman.
+#define IDI_APP   101
+#define IDR_FACE  200
+
+IDI_APP ICON "icon.ico"
+IDR_FACE RCDATA "face.png"
+
+// Манифест: DPI-awareness и совместимость с Windows 10/11.
+1 24 "app.manifest"
